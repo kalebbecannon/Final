@@ -1,0 +1,15 @@
+/Users/kalebbecannon/Downloads/C# Projects/Final/bin/Debug/net7.0/Final
+/Users/kalebbecannon/Downloads/C# Projects/Final/bin/Debug/net7.0/Final.deps.json
+/Users/kalebbecannon/Downloads/C# Projects/Final/bin/Debug/net7.0/Final.runtimeconfig.json
+/Users/kalebbecannon/Downloads/C# Projects/Final/bin/Debug/net7.0/Final.dll
+/Users/kalebbecannon/Downloads/C# Projects/Final/bin/Debug/net7.0/Final.pdb
+/Users/kalebbecannon/Downloads/C# Projects/Final/obj/Debug/net7.0/Final.csproj.AssemblyReference.cache
+/Users/kalebbecannon/Downloads/C# Projects/Final/obj/Debug/net7.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kalebbecannon/Downloads/C# Projects/Final/obj/Debug/net7.0/Final.AssemblyInfoInputs.cache
+/Users/kalebbecannon/Downloads/C# Projects/Final/obj/Debug/net7.0/Final.AssemblyInfo.cs
+/Users/kalebbecannon/Downloads/C# Projects/Final/obj/Debug/net7.0/Final.csproj.CoreCompileInputs.cache
+/Users/kalebbecannon/Downloads/C# Projects/Final/obj/Debug/net7.0/Final.dll
+/Users/kalebbecannon/Downloads/C# Projects/Final/obj/Debug/net7.0/refint/Final.dll
+/Users/kalebbecannon/Downloads/C# Projects/Final/obj/Debug/net7.0/Final.pdb
+/Users/kalebbecannon/Downloads/C# Projects/Final/obj/Debug/net7.0/Final.genruntimeconfig.cache
+/Users/kalebbecannon/Downloads/C# Projects/Final/obj/Debug/net7.0/ref/Final.dll
